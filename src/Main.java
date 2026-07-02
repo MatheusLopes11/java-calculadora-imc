@@ -28,7 +28,7 @@ public class Main {
 
         System.out.println("Processando... \n");
 
-        double imc = peso / (Math.pow(altura, altura));
+        double imc = peso / (Math.pow(altura, 2));
 
         System.out.printf("Resultado: ≈ %.2f kg/m²", imc);
 
