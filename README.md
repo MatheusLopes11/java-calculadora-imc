@@ -71,7 +71,7 @@ Durante o desenvolvimento deste projeto, pratiquei:
 Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/java-calculadora-imc.git
+git clone https://github.com/MatheusLopes11/java-calculadora-imc.git
 ```
 
 Acesse a pasta do projeto:
